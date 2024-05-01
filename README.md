@@ -2,6 +2,7 @@
 
     - Create a React app using vite bundler
     - Configured tailwind css
+    - Header
 
 # Features
 
