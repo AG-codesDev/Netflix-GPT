@@ -3,6 +3,10 @@
     - Create a React app using vite bundler
     - Configured tailwind css
     - Header
+    - Routing
+    - Login/Sign Up form
+    - Form validation
+    - hosted on firebase
 
 # Features
 
